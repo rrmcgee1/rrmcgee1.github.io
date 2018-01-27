@@ -8,29 +8,29 @@ language: 'en-uk'
 baseurl: /
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: My Cool Website :)
+description: I'm a programmer now
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://myJekyll.github.io/jasper2/
-source_url: https://github.com/myJekyll/jasper2/
+production_url: https://rrmcgee1.github.io
+source_url: https://github.com/rrmcgee1/rrmgee1.github.io
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: rachreetie # replace by your username
+facebook: False # replace by your username
 
 # Disqus
 disqus: False
 disqus_shortname: myjekyll # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: False # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: myJekyll
-repo: jasper2
+username: rrmcgee1
+repo: rrmcgee1.github.io
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+production_url:  https://rrmcgee1.github.io
+source_url:  https://github.com/rrmcgee1.github.io
 
 exclude:
   - README.md
